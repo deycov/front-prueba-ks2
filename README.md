@@ -1,8 +1,25 @@
-# React + Vite
+# PRUEBA TÉCNICA KS2: Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Esta aplicación es una interfaz de usuario simple desarrollada con React y Vite con estilos de tailwindcss. Permite a los usuarios agregar, listar y eliminar elementos desde una lista almacenada en LocalStorage.
 
-Currently, two official plugins are available:
+## Prerrequisitos
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Node.js instalado en tu sistema.
+- NPM (viene con Node.js).
+
+## Instalación y Uso
+
+Para ejecutar esta aplicación localmente, sigue estos pasos:
+
+1. Clona este repositorio o descarga el código fuente.
+2. Navega al directorio del proyecto en tu terminal.
+3. Ejecuta `npm install` para instalar las dependencias.
+4. Inicia la aplicación con `npm run dev`.
+
+Ahora, abre tu navegador y ve a `http://localhost:5173` para ver la aplicación en acción.
+
+## Recursos utilizados
+
+- React: https://es.react.dev/
+- Vite: https://vitejs.dev/
+- Tailwindcss: https://tailwindcss.com/docs/guides/vite
